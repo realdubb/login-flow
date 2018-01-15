@@ -1,4 +1,4 @@
-import request from './fakeRequest';
+import request from './request';
 
 /**
  * Authentication lib
